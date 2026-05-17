@@ -100,7 +100,7 @@ Python va HTML asosida qurilgan ta'lim boshqaruv tizimi.
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/Baxodir0205">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   &nbsp;
