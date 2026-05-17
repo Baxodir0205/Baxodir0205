@@ -73,13 +73,17 @@ Python va HTML asosida qurilgan ta'lim boshqaruv tizimi.
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Baxodir0205&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00979D&icon_color=00979D&text_color=c9d1d9" />
-  &nbsp;
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Baxodir0205&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00979D&text_color=c9d1d9" />
+  <img src="https://streak-stats.demolab.com/?user=Baxodir0205&theme=dark&hide_border=true&background=0d1117&ring=00979D&fire=00979D&currStreakLabel=00979D" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Baxodir0205&theme=dark&hide_border=true&background=0d1117&ring=00979D&fire=00979D&currStreakLabel=00979D" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baxodir0205&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baxodir0205&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baxodir0205&theme=github_dark" />
 </p>
 
 ---
