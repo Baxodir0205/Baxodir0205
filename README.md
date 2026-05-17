@@ -1,4 +1,4 @@
-[README (4).md](https://github.com/user-attachments/files/27904910/README.4.md)
+
 <h1 align="center">Hi there, I'm Baxodir 👋</h1>
 
 <p align="center">
