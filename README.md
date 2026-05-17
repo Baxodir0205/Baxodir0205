@@ -73,9 +73,9 @@ Python va HTML asosida qurilgan ta'lim boshqaruv tizimi.
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baxodir0205&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00979D&icon_color=00979D&text_color=c9d1d9&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Baxodir0205&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00979D&icon_color=00979D&text_color=c9d1d9" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxodir0205&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00979D&text_color=c9d1d9&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Baxodir0205&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00979D&text_color=c9d1d9" />
 </p>
 
 <p align="center">
